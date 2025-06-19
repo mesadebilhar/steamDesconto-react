@@ -1,6 +1,6 @@
 # Fetch de descontos para a steam
 ---
-Esse é um projeto simples para entender melhor como funciona o uso de APIs, o uso de JavaScript para ciração de servidores e seu uso no backend.
+Esse é um projeto simples para entender melhor como funciona o uso de APIs, o uso de JavaScript para criação de servidores e seu uso no backend.
 <details>
 <summary>Detalhes</summary>
 
